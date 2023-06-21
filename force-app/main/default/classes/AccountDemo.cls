@@ -1,4 +1,15 @@
+/**
+ * @description       : 
+ * @author            : chandana
+ * @group             : 
+ * @last modified on  : 06-21-2023
+ * @last modified by  : chandana 
+ * Modifications Log
+ * Ver   Date         Author     Modification
+ * 1.0   06-21-2023   chandana   Initial Version
+**/
 public class AccountDemo {
+    //comment
     public Account accObj{get;set;}
     public List<Account> acclist{get;set;}
     
